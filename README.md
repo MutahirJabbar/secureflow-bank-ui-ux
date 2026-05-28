@@ -6,8 +6,8 @@
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-blue?style=for-the-badge)
 
 ## 🔗 Live Prototypes & Assets
-* [**Interactive Figma Prototype**](https://www.figma.com/proto/TFKNjzWaIf7s1p1qY7CV9v/FINAL-SEM-PORJECTT?node-id=0-279&p=f&t=LhF77j2CzunHUjeW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A279)
-* [**High-Fidelity Figma Workspace**](https://www.figma.com/design/TFKNjzWalf7s1p1qY7CV9v/FINAL-SEM-PORJECTT?t=WFGMKFkMHPnntqTd-1)
+* [**Low-Fidelity Figma Prototype**](https://www.figma.com/proto/fRyynUyz7f9u74bA0W5wwp/Untitled?t=xqbUdcyxUtq1g39b-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=1-2)
+* [**Interactive High-Fidelity Prototype**](https://www.figma.com/proto/TFKNjzWaIf7s1p1qY7CV9v/FINAL-SEM-PORJECTT?node-id=0-279&p=f&t=LhF77j2CzunHUjeW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A279)
 
 ---
 
